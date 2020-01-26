@@ -1,0 +1,4 @@
+praw
+pycryptodome
+discord.py
+flask
